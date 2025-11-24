@@ -1,4 +1,3 @@
-```markdown
 # 📚 Quiz Manga "Qui est-ce ?"
 
 ## 📝 Description  
